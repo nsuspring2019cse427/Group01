@@ -12,8 +12,8 @@ describe('App Component', () => {
         })
     })
 
-    it('renders correctly', () => {
+    it('renders correctly app.js ', () => {
         const component = shallow( < App / > )
-        expect(component).toMatchSnapshot()
+        expect(component.exists()).toEqual(true);
     })
 })
