@@ -3,7 +3,7 @@ import Enzyme, {
     shallow
 } from 'enzyme'
 import Adapter from 'enzyme-adapter-react-16'
-import TodoList from './TodoList.jsx'
+import TodoList from './TodoList'
 
 describe('TodoList Component', () => {
     beforeAll(() => {
