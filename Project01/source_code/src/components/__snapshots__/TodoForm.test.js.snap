@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`TodoForm Component renders correctly 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
